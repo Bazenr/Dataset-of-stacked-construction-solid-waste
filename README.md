@@ -1,5 +1,5 @@
 # **Object-detection-code/Dataset-generation-code/Dataset of construction solid waste**
-|**Content**|**Location/Link**|
+|**Content**|**Location / Link**|
 |:--------|:-------------|
 |**Dataset samples**|Dataset-of-stacked-construction-solid-waste/**dataset**|
 |**Dataset generation code**|Dataset-of-stacked-construction-solid-waste/**rapid_generation**|
