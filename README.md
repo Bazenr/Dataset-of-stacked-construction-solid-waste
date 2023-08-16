@@ -1,4 +1,5 @@
 # **Object-detection-code/Dataset-generation-code/Dataset of construction solid waste**
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 |**Content**|**Location / Link**|
 |:--------|:-------------|
 |**Dataset samples**|Dataset-of-stacked-construction-solid-waste/**Dataset**|
