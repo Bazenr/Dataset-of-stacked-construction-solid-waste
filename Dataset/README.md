@@ -5,7 +5,7 @@ The dataset contain 4 types of construction solid waste: **concrete**, **brick**
 
 Samples:
 
-<img width="355" alt="308400 000000-" src="https://github.com/Bazenr/Dataset-of-stacked-construction-solid-waste/assets/81945216/3b5611b8-1e3e-45d1-978b-d9d1a1e92b50">
+<img width="355" src="https://github.com/Bazenr/Dataset-of-stacked-construction-solid-waste/blob/master/data-original.png">
 
 **"A"** represent simple work condition, and **"B"** represent complex work condition.
 
