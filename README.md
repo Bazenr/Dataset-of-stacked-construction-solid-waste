@@ -6,6 +6,10 @@
 |**Dataset generation code**|Dataset-of-stacked-construction-solid-waste/**Rapid_generation**|
 |**Object detection code**|Dataset-of-stacked-construction-solid-waste/**Experiment_code**|
 |**Sourse dataset link**|https://www.kaggle.com/datasets/bazenr/stacked-construction-solid-waste|
+|**Related work**|https://doi.org/10.1371/journal.pone.0296666|
+
+
+
 
 The dataset contain **4 types** of construction solid waste: **concrete**, **brick**, **wood** and **rubber**. Each document countains 25 sample images and label files.
 
@@ -22,5 +26,3 @@ The dataset contain **4 types** of construction solid waste: **concrete**, **bri
 **"manual"** means the dataset was **labeled manually** by us.
 
 **"test"** means the dataset was **labeled manually** by us for **model test**. The images never appear in other files.
-
-Related work: https://doi.org/10.1371/journal.pone.0296666
